@@ -14,6 +14,9 @@ pkg> add https://github.com/junyixu/Mathematica2Julia.jl
 ```sh
 export JULIA_MATHKERNEL=$(which WolframKernel)
 ```
+<img width="1476" height="237" alt="image" src="https://github.com/user-attachments/assets/0e2eaf40-8a2b-4b57-8e6d-8a3464bb9f36" />
+
+Then, copy and paste from the notebook:
 
 ```julia
 using Mathematica2Julia

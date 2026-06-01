@@ -1,6 +1,6 @@
 # Mathematica2Julia.jl
 
-Translate a Mathematicsa expression tree
+Translate a Mathematica expression tree
 into a native Julia `Expr`.
 
 ## Install

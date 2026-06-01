@@ -3,6 +3,7 @@ module Mathematica2Julia
 using MathLink
 
 export weval, w2expr
+export @W_cmd, @W_str   # re-export MathLink's W`...` / W"..." macros
 
 # Mathematica head (String) → Julia operator/function (Symbol)
 const HEAD2JL = Dict{String,Symbol}(

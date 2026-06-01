@@ -11,6 +11,10 @@ pkg> add https://github.com/junyixu/Mathematica2Julia.jl
 
 ## Usage
 
+```sh
+export JULIA_MATHKERNEL=$(which WolframKernel)
+```
+
 ```julia
 using Mathematica2Julia
 

@@ -1,7 +1,7 @@
 # Mathematica2Julia.jl
 
-Translate a [MathLink](https://github.com/JuliaInterop/MathLink.jl) expression
-tree into a native Julia `Expr`.
+Translate a Mathematicsa expression tree
+into a native Julia `Expr`.
 
 ## Install
 
